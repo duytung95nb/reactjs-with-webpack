@@ -1,0 +1,14 @@
+.app {
+    &__children {
+        width: 100%;
+    }
+    .child-container {
+        display: inline-block;
+        &--class {
+
+        }
+        &--function {
+            
+        }
+    }
+}
